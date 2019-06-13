@@ -10,7 +10,7 @@ Este arquivo contém a documentação, assinatura, parâmentros de entrada e reg
 5. A variável lista-pacientes será do tipo array.
 6. Os dados necessários para o cadastro do médico são
 
-- código (iniciando do número 5000)
+- código 
 - nome
 - telefone
 - endereço
