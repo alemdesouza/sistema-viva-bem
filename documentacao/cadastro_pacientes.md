@@ -15,3 +15,5 @@ Este arquivo contém a documentação, assinatura, parâmentros de entrada e reg
 - telefone
 - endereço
 - data de nascimento
+
+void cadastro_pacientes (FILE *f)
