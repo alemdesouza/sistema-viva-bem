@@ -1,7 +1,7 @@
 # Cadastro de Médicos:
 Este arquivo contém a documentação, assinatura, parâmentros de entrada e registro de execução de testes da funcionalidade cadastro de médicos.
 
-## Assinatura
+## Documentação
 
 1. A função cadastro de médicos será VOID.
 2. Não receberá nenhum parâmentro da função menu.
@@ -14,3 +14,7 @@ Este arquivo contém a documentação, assinatura, parâmentros de entrada e reg
 - nome
 - telefone
 - especialidade
+
+## Assinatura da Função
+
+void cadastro_medico();
