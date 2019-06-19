@@ -3,9 +3,9 @@ Este arquivo contém a documentação, assinatura, parâmentros de entrada e reg
 
 ## Assinatura
 
-1. A função listar médicos será VOID.
-2. A funcção recebera o arquivo como parâmentro.
-3. Tendo em vista ser uma função VOID, não tem retorno.
+1. A função listar médicos será INT.
+2. A função recebera o arquivo como parâmentro.
+3. A função retornará 0 se forem localizados médicos com a especialidade desejada, ou retornará -1 se não for localizado nenhum médico com esta especialidade.
 4. O propósito da função é ler a especialidade e iterar sobre a lista de medicos para apresentar os que são da especialidade lida.
 5. Os dados necessários para listar os médicos por especialidade são
 
