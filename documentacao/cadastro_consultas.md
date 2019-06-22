@@ -12,7 +12,9 @@ Este arquivo contém a documentação, assinatura, parâmentros de entrada e reg
 
 - nome do paciente;
 - nome do médico;
-- data da cosulta.
+- data da cosulta;
+- horário da consulta;
+
 
 ## Assinatura da Função
 void cadastro_consulta();
