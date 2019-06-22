@@ -26,7 +26,9 @@ void cadastro_consulta();
 
 - nome do paciente;
 - nome do médico;
-- data da cosulta.
+- data da cosulta;
+- horário da consulta;
+
 
 ## Saída da função
 - Consulta cadastrada no sistema
