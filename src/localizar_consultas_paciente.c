@@ -1,10 +1,10 @@
 #include <stdio.h>
-
-struct Date
-{
-  int dia;
-  int mes;
-  int ano;
+struct Date {
+    int dia;
+    int mes;
+    int ano;
+    int hora;
+    int minuto;
 };
 
 typedef Date date;
