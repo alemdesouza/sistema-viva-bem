@@ -16,5 +16,14 @@ Este arquivo contém a documentação, assinatura, parâmentros de entrada e reg
 - especialidade
 
 ## Assinatura da Função
+void cadastro_medico (FILE *f);
 
-void cadastro_medico();
+## Entrada da função
+- código
+- nome
+- telefone
+- especialidade
+
+## Saída da função
+- médico cadastrado no arquivo
+
